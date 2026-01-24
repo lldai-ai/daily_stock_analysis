@@ -152,7 +152,7 @@ class Scheduler:
 
 def run_with_schedule(
     task: Callable,
-    schedule_time: str = "18:00",
+    schedule_time: str = "14:30",
     run_immediately: bool = True
 ):
     """
